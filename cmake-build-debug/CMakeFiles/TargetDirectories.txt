@@ -1,0 +1,3 @@
+/home/reza/Documents/C/Banking_programm/cmake-build-debug/CMakeFiles/Banking_programm.dir
+/home/reza/Documents/C/Banking_programm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reza/Documents/C/Banking_programm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
